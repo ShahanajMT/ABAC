@@ -5,9 +5,9 @@ import { jwtSecret } from "../config/env.js";
 
 //dummy User
 const user = {
-    id: 2,
-    name: 'john',
-    role: "admin",
+    id: 1,
+    name: 'shanu',
+    role: "manager",
     department: "IT",
     accessLevel: 4,
 };
